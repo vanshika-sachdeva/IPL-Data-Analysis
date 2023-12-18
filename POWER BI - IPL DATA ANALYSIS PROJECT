@@ -1,0 +1,10 @@
+This is Power BI End to End Project.
+Tools Used : PostgreSQL, Excel, Power Bi Desktop
+Instructions used to make this analysis :
+Excel: Created and structured data using formulas for analysis.
+PostgreSQL: Developed databases housing ERP (Enterprise Resource Planning) models.
+Power BI Desktop: Integrated data from Excel and PostgreSQL, conducted data transformations, established relationships, and generated comprehensive visualizations for analysis and reporting.
+
+
+
+
